@@ -1,0 +1,11 @@
+{
+  "outbound" : {
+    "protocol" : "vmess",
+    "settings" : {
+      "vnext" : [
+        //proxy_start
+        //proxy_end
+      ]
+    },
+  }
+}
